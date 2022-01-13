@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "react": "^17.0.2"
+  },
+  "name": "101",
+  "version": "1.0.0",
+  "description": "\"lesson one hands on for the Angular course.\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+   "start": "tsc && node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
